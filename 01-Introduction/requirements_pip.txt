@@ -1,0 +1,23 @@
+# packaging
+pip>=9
+setuptools>=26
+autopep8
+
+# data science
+numpy
+pandas
+xlrd
+scikit-learn
+matplotlib
+seaborn
+jupyter
+jupyterlab
+scipy
+
+# images
+opencv-python
+
+# tests/linter
+pytest
+nbresult
+termcolor
