@@ -2,7 +2,7 @@
 
 Data Science and Machine Learning for Geoscientists  
 Academic year: 2026–27  
-Lecturer: Samane Mofrad
+Lecturer: Samane A. Mofrad
 
 ## About this lecture
 
