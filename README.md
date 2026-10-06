@@ -11,7 +11,8 @@ and practise the Python skills needed for the course.
 
 ## Learning materials
 
-The Lecture 1 notebook and supporting files will be added here.
+1. Start with [Introduction and setup](01-Introduction/Instructions-Read-First.ipynb).
+2. Continue with [Lecture 1 exercises](02-Python-for-Data-Science/Lecture-and-Exercise-1.ipynb).
 
 ## How to download the materials
 
